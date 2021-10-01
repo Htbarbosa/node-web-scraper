@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> c917529c9320d9f5631425fc694a16e72fe972ec
 <h3 align="center">Web Scraper</h3>
 
 <div align="center">
